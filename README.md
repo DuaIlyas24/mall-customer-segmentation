@@ -45,7 +45,6 @@ The insights derived from the clusters are used to develop targeted marketing st
 Dua Ilyas
 
 ## GitHub Repository
+https://github.com/DuaIlyas24/mall-customer-segmentation/tree/main
 
 
-
-## Repository Structure
